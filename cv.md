@@ -11,7 +11,8 @@ I want to make this world better. I'm going to develop usefull apps to reach thi
 * Jquery
 * Vue.js
 ### Code example:
-```function hello(name){
+```
+function hello(name){
     console.log("Hello, ", name);
 }
 ```
