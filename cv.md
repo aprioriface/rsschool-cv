@@ -1,5 +1,4 @@
 # Korol Stanislav
----
 ### Contacts:
 **E-mail:** aprioriface@gmail.com
 ### Summary:
