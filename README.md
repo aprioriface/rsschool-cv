@@ -1,2 +1,3 @@
 # rsschool-cv
-<a href="https://aprioriface.github.io/rsschool-cv/cv">CV</a>
+* [CV](https://aprioriface.github.io/rsschool-cv/cv)
+* [CV html](https://aprioriface.github.io/rsschool-cv/)
